@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="3kRP[(eE*}^A,MXn^91Z" x="0" y="0"><statement name="HANDLER"><block type="controls_if" id="~-$W?E!s60N]Q10f^~j3"><mutation else="1"/><value name="IF0"><shadow type="logic_boolean" id="[#,-R=z3_Jgv=gOB#$zX"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_print_message" id="XBP(VcLu}T?a|dgf;l$."><value name="text"><shadow type="text" id="aIwUR.#6@[*3cRbOvU-F"><field name="TEXT">si le  dises  algo incrible  se queda sin palabras</field></shadow></value><next><block type="device_show_leds" id="W/)2-bCjc2pU5kIiX%jK"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></statement><statement name="ELSE"><block type="device_print_message" id="WPnhTNq8E,z$nH}zSI=h"><value name="text"><shadow type="text" id="#7#-`NDO[_$E#l:oIOih"><field name="TEXT">si no le dises  estara felis</field></shadow></value><next><block type="device_show_leds" id="o9N(G3glGS|;N][2xe-["><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # . . . # 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></statement><next><block type="controls_if" id="tJ7s]H`V+UarFM.MY!9|"><mutation else="1"/><value name="IF0"><shadow type="logic_boolean" id=",N3yIo[-(zHB)vx[xE/H"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_print_message" id=")7t;+W-bROeL(;CpU`ou"><value name="text"><shadow type="text" id="lM8|KE_L.Xj}e+Y[7Sz6"><field name="TEXT">si le dises cosas nuevas el reacionara sin palabras </field></shadow></value><next><block type="device_show_leds" id="mc=n/r,gBe(AV3WfI=q)"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></statement><statement name="ELSE"><block type="device_print_message" id="=8:?:V.iW=4aKBt9Q;0^"><value name="text"><shadow type="text" id="[45}z@zZ%eaDJ}xaV/y]"><field name="TEXT">si no le dises felis</field></shadow></value><next><block type="device_show_leds" id="Q$QK_g*)Gw(fD8B{Y!T^"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # . . . # 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></statement><next><block type="controls_if" id="xY]mOhiUi2Z7.9F.`+u%"><mutation else="1"/><value name="IF0"><shadow type="logic_boolean" id="5NC@KTnf_==AEyNj~h!4"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_print_message" id="!8W=;KPyfKAr5]C](OjR"><value name="text"><shadow type="text" id="[px,0(MYfe(7.=gL/X_6"><field name="TEXT">decirle como  sale una nueva planta </field></shadow></value><next><block type="device_show_leds" id="p+PIp0%OBx|V`U%Tr%Iq"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></statement><statement name="ELSE"><block type="device_print_message" id="Hm#MqKW%g5S{8c1d_aIt"><value name="text"><shadow type="text" id="``3XTGc;i:=LHe4VMSq0"><field name="TEXT">si no   le dises felis  </field></shadow></value><next><block type="device_show_leds" id="$lZN5V`d~W]+)y*eEU(D"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # . . . # 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></statement></block></next></block></next></block></statement></block><block type="device_forever" id="VtIlm~#]Y[__TY1w%ga7" x="205" y="0"/></xml>
